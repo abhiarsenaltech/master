@@ -106,8 +106,8 @@
       <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5555556">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.7777778">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -501,7 +501,19 @@
       <option name="project" value="LOCAL" />
       <updated>1456737025073</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change in home">
+      <created>1456737246707</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1456737246707</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change in wellcome.blade file">
+      <created>1456737582514</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1456737582514</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -545,7 +557,9 @@
     <MESSAGE value="removed .env" />
     <MESSAGE value="changes in login&#10;" />
     <MESSAGE value="home..." />
-    <option name="LAST_COMMIT_MESSAGE" value="home..." />
+    <MESSAGE value="change in home" />
+    <MESSAGE value="change in wellcome.blade file" />
+    <option name="LAST_COMMIT_MESSAGE" value="change in wellcome.blade file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -931,8 +945,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5555556">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.7777778">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
