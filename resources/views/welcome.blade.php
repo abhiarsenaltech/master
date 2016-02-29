@@ -8,7 +8,7 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                   Hello Abhi
+                   Hello
                 </div>
             </div>
         </div>
